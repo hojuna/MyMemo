@@ -1,0 +1,18 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Built app bundle (produced by scripts/make-app.sh)
+*.app/
+
+# macOS
+.DS_Store
+
+# Local editor / OMC internal state
+.claude/
+.omc/
+
+# Screenshots / scratch
+스크린샷*.png
+*.png
