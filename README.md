@@ -4,7 +4,7 @@
 
 **맥북 독(Dock) 옆에 붙어 다니는 할 일 · 메모 패널**
 
-평소엔 독 끝에 작게 붙어 있다가, 마우스를 올리면 펼쳐져 할 일과 메모를 보여줍니다.
+독 옆 빈 공간에 붙어 할 일과 메모를 항상 보여줍니다. 마우스를 올리면 펼쳐지고, 벗어나면 작아집니다.
 
 ![platform](https://img.shields.io/badge/platform-macOS%2014%2B-black?logo=apple)
 ![swift](https://img.shields.io/badge/Swift-6.0-orange?logo=swift&logoColor=white)
@@ -12,9 +12,9 @@
 ![offline](https://img.shields.io/badge/100%25-offline-success)
 ![license](https://img.shields.io/badge/license-Apache--2.0-blueviolet)
 
-<img src="assets/hero.png" width="860" alt="독 끝에 붙은 MyMemo 기본 모드" />
+<img src="assets/hero.png" width="860" alt="독 옆에 붙은 MyMemo 패널" />
 
-<sub>기본 모드 — 독 끝에 작은 칩으로 얌전히 붙어 있습니다</sub>
+<sub>독 옆에 붙어 할 일과 메모를 항상 보여줍니다</sub>
 
 </div>
 
@@ -49,16 +49,16 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="assets/screenshots/default-compact.png" width="100%" alt="기본 모드" /><br/>
-      <sub><b>기본 모드</b><br/>독 끝의 작은 칩</sub>
+      <img src="assets/screenshots/on-dock.png" width="100%" alt="독 옆에 붙음" /><br/>
+      <sub><b>독 옆에 붙음</b><br/>독 끝 빈 공간에 자연스럽게</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/screenshots/expanded.png" width="100%" alt="펼친 모드" /><br/>
-      <sub><b>펼친 모드</b><br/>할 일 + 메모</sub>
+      <sub><b>펼친 모드</b><br/>마우스 올리면 할 일 + 메모</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/screenshots/multi-monitor.png" width="100%" alt="멀티 모니터" /><br/>
-      <sub><b>멀티 모니터</b><br/>독을 따라 이동</sub>
+      <img src="assets/screenshots/compact.png" width="100%" alt="좁게 줄이면" /><br/>
+      <sub><b>좁게 줄이면</b><br/>작은 칩으로 (올리면 펼침)</sub>
     </td>
   </tr>
 </table>
