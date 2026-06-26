@@ -13,6 +13,5 @@ Package.resolved
 .claude/
 .omc/
 
-# Screenshots / scratch
-스크린샷*.png
-*.png
+# Raw screenshots at repo root (originals); curated copies live in assets/
+/스크린샷*.png
