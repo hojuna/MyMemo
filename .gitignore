@@ -13,5 +13,7 @@ Package.resolved
 .claude/
 .omc/
 
-# Raw screenshots at repo root (originals); curated copies live in assets/
+# Raw captures at repo root (originals); curated copies live in assets/
 /스크린샷*.png
+/화면 기록*.mov
+/*.mov
